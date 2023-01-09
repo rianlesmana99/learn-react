@@ -45,7 +45,7 @@ export default function Home() {
                     </Card.Body>
                     <Card.Footer>
                         <p className="font-semibold">Create By: @rianlesmana99</p>
-                        <p className="font-semibold">Refrence: Parsinta - Belajar React dari Awal</p>
+                        <p className="font-semibold">Refference: Parsinta - Belajar React dari Awal</p>
                     </Card.Footer>
                 </Card>
             </div>
